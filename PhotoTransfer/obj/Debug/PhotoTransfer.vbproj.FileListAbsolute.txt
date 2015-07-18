@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\bin\Debug\PhotoTransfer.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\bin\Debug\PhotoTransfer.exe
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\bin\Debug\PhotoTransfer.pdb
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\bin\Debug\PhotoTransfer.xml
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.PhotoTransferPanel.resources
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.exe
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.xml
+c:\users\owner\documents\visual studio 2013\Projects\PhotoTransfer\PhotoTransfer\obj\Debug\PhotoTransfer.pdb
